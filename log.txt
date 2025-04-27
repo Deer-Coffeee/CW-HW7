@@ -1,0 +1,1 @@
+[{"date":"2025-04-20T16:44:24.413Z","message":"new user was successfully added"},{"date":"2025-04-20T16:44:44.603Z","message":"user was updated"},{"date":"2025-04-20T16:45:44.515Z","message":"Server shutdown by Ctrl+C"}]
