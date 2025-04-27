@@ -1,0 +1,33 @@
+{
+	"info": {
+		"_postman_id": "3e5d0ff9-fb4d-4895-8327-30c2d6c57afa",
+		"name": "NodeExpress",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "43886538",
+		"_collection_link": "https://innokenty-2656670.postman.co/workspace/Innokenty's-Workspace~f2423a00-71b0-4fb0-87aa-a42ac230ada2/collection/43886538-3e5d0ff9-fb4d-4895-8327-30c2d6c57afa?action=share&source=collection_link&creator=43886538"
+	},
+	"item": [
+		{
+			"name": "http://localhost:3005/",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3005/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3005",
+					"path": [
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
